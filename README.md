@@ -7,4 +7,4 @@
 2. 构建pipeline和否定pipeline循环
 3. 资料完整的 vs 资料混乱的
 4. TBD
-5. 测试用
+
